@@ -30,7 +30,7 @@ I'm passionate about 📊 Full-Stack Development & DevOps Engineering. I like so
 <img src="./logos/redux.png" height="60" width="60">
 <img src="./logos/sass.png" height="60" width="60">
 <img src="./logos/Three.png" height="60" width="60">
-<img src="./logos/Blender.png" height="60" width="60">
+<img src="./logos/vs.png" height="60" width="60">
 <img src="./logos/Vite.png" height="60" width="60">
 
 
