@@ -24,20 +24,25 @@ I'm passionate about 📊 Full-Stack Development & DevOps Engineering. I like so
 
 <div align="center">
   
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/c.png" height="60" width="60">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/c++.png" height="60" width="60">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/python.png" height="60" width="60">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/javascript.png" height="60" width="60">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/html.png" height="60" width="60">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/css.png" height="60" width="60">
-<br>
+<img src="./logos/typescript.png" height="60" width="60">
+<img src="./logos/javascript.png" height="60" width="60">
+<img src="./logos/react.png" height="60" width="60">
+<img src="./logos/redux.png" height="60" width="60">
+<img src="./logos/sass.png" height="60" width="60">
+<img src="./logos/Three.png" height="60" width="60">
+<img src="./logos/Blender.png" height="60" width="60">
+<img src="./logos/Vite.png" height="60" width="60">
 
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/gcp.png" height="50" width="75">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/postman.png" height="50" width="70">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/sql.png" height="60" width="60">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/bootstrap.png" height="60" width="60">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/git.png" height="60" width="60">
-<img src="https://github.com/AnjulKumar606/AnjulKumar606/blob/main/logos/azure.png" height="55" width="75">
+
+<br>
+<img src="./logos/nodejs.png" height="60" width="60">
+<img src="./logos/redis.png" height="60" width="60">
+<img src="./logos/mongodb.png" height="60" width="60">
+<img src="./logos/mysql.png" height="60" width="60">
+<img src="./logos/Go.png" height="60" width="60">
+<img src="./logos/c++.png" height="60" width="60">
+<img src="./logos/python.png" height="60" width="60">
+<img src="./logos/git.png" height="60" width="60">
 
 </div>
 
