@@ -2,8 +2,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=FullStack+Dev;Vlogger;Fitness" alt="Typing SVG" /></a>
 </div>
-<h1 align="center">Hello, I'm Anjul Kumar!</h1>
-<!-- <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> > -->
+<h1 align="center">Hello, I'm Anjul Kumar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> </h1>
+
 <h4 align="center">Check out my <a href="https://portfoliov1-yvoj.onrender.com/">3D Portfolio</a> website! 🙌</h4>
 
 <h3 align="center">I'm an aspiring Full Stack Developer from India ❤</h3>
