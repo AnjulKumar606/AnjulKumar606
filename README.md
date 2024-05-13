@@ -76,3 +76,4 @@ I'm passionate about 📊 Full-Stack Development & DevOps Engineering. I like so
 </div>
 
 
+<img src="./media/footer.png">
